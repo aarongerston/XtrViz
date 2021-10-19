@@ -4,9 +4,11 @@
 
 1. Create a virtual environment and ensure Git works in it. 
 2. Install XtrUtils (required dependency) by running the following command:
-`pip install git+https://insert-url-here`
+
+`pip install git+https://github.com/aarongerston/XtrUtils/`
 3. Install XtrViz by running the following command:
-`pip install git+https://insert-url-here`
+
+`pip install git+https://github.com/aarongerston/XtrViz/`
 
 ## Uninstallation
 
